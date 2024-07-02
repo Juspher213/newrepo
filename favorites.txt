@@ -2,3 +2,6 @@
 adobo
 caldereta
 pastil
+blackhat
+moana
+little mermaid
